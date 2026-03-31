@@ -1,0 +1,20 @@
+{
+  "name": "playground-site",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "hash-password": "node scripts/hash-password.mjs",
+    "make-staff-sql": "node scripts/generate-staff-sql.mjs"
+  },
+  "dependencies": {
+    "next": "^16.2.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}

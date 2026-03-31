@@ -1,0 +1,119 @@
+{
+  "menuItems": [
+    {
+      "id": "menu-1",
+      "title": "Citrus Burrata",
+      "category": "Starters",
+      "price": "$18",
+      "description": "Creamy burrata, orange segments, basil oil, and toasted almonds.",
+      "imageUrl": "/uploads/menu/1774960491927-b042658b.webp"
+    },
+    {
+      "id": "menu-2",
+      "title": "Ember Ravioli",
+      "category": "Mains",
+      "price": "$25",
+      "description": "Handmade pasta filled with roasted pumpkin and brown butter sage.",
+      "imageUrl": "https://images.unsplash.com/photo-1676471771228-c4cdbfbd2a7f?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1600"
+    },
+    {
+      "id": "menu-3",
+      "title": "Saffron Chicken",
+      "category": "Mains",
+      "price": "$28",
+      "description": "Delicate roasted chicken, saffron sauce, preserved lemon, and herbs.",
+      "imageUrl": "https://images.unsplash.com/photo-1753871486322-3a006a71e9b7?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1600"
+    },
+    {
+      "id": "menu-4",
+      "title": "Garden Tagliatelle",
+      "category": "Mains",
+      "price": "$22",
+      "description": "Fresh tagliatelle with green peas, pecorino, and lemon zest.",
+      "imageUrl": "https://images.unsplash.com/photo-1676471771228-c4cdbfbd2a7f?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1600"
+    },
+    {
+      "id": "menu-5",
+      "title": "Olive Oil Cake",
+      "category": "Desserts",
+      "price": "$12",
+      "description": "Soft olive oil cake with citrus cream and pistachio dust.",
+      "imageUrl": "https://images.unsplash.com/photo-1753871486322-3a006a71e9b7?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1600"
+    },
+    {
+      "id": "menu-6",
+      "title": "Signature Cocktail",
+      "category": "Drinks",
+      "price": "$15",
+      "description": "A bold house cocktail with citrus peel, spice, and a glossy finish.",
+      "imageUrl": "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1600"
+    }
+  ],
+  "chefs": [
+    {
+      "id": "chef-1",
+      "name": "Marco Bellini",
+      "role": "Executive Chef",
+      "text": "Known for restrained plates, deep sauces, and a modern Mediterranean point of view.",
+      "imageUrl": "https://images.unsplash.com/photo-1771360963016-1408c2de12c4?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1600"
+    },
+    {
+      "id": "chef-2",
+      "name": "Leila Noor",
+      "role": "Pastry Chef",
+      "text": "Builds elegant desserts around citrus, olive oil, and light floral finishes.",
+      "imageUrl": "https://images.unsplash.com/photo-1753871486322-3a006a71e9b7?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1600"
+    },
+    {
+      "id": "chef-3",
+      "name": "Jonas Reed",
+      "role": "Fire & Grill",
+      "text": "Handles the wood fire station and brings a smoky signature to every service.",
+      "imageUrl": "https://images.unsplash.com/photo-1771360963016-1408c2de12c4?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1600"
+    }
+  ],
+  "galleryItems": [
+    {
+      "id": "gallery-1",
+      "title": "Golden hour service",
+      "text": "The room softens just before the first guests arrive.",
+      "imageUrl": "https://images.unsplash.com/photo-1737991959048-1233005c971e?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1800",
+      "size": "gallery-shot--wide"
+    },
+    {
+      "id": "gallery-2",
+      "title": "Chef counter",
+      "text": "A front-row view of plating, finishing, and conversation.",
+      "imageUrl": "https://images.unsplash.com/photo-1771360963016-1408c2de12c4?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1800",
+      "size": "gallery-shot--tall"
+    },
+    {
+      "id": "gallery-3",
+      "title": "Morning market",
+      "text": "Produce, herbs, and ingredients selected before prep begins.",
+      "imageUrl": "https://images.unsplash.com/photo-1743397015934-3aa9c6199baf?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1800",
+      "size": ""
+    },
+    {
+      "id": "gallery-4",
+      "title": "Shared table",
+      "text": "Large-format dishes designed for birthdays and private dinners.",
+      "imageUrl": "https://images.unsplash.com/photo-1737991959048-1233005c971e?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1800",
+      "size": ""
+    },
+    {
+      "id": "gallery-5",
+      "title": "Bar moments",
+      "text": "Low light, amber cocktails, and a slower final hour.",
+      "imageUrl": "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1800",
+      "size": ""
+    },
+    {
+      "id": "gallery-6",
+      "title": "Sweet finish",
+      "text": "Desserts built with fragrance, lightness, and texture.",
+      "imageUrl": "https://images.unsplash.com/photo-1753871486322-3a006a71e9b7?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=80&w=1800",
+      "size": "gallery-shot--wide"
+    }
+  ]
+}
